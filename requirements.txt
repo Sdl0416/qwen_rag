@@ -1,0 +1,5 @@
+openai>=1.52
+faiss-cpu>=1.8
+numpy>=1.26
+pypdf>=5.0
+python-dotenv>=1.0
